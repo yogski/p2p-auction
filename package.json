@@ -1,0 +1,18 @@
+{
+  "name": "p2p-auction",
+  "version": "1.0.0",
+  "description": "CLI-based Auction with peer-to-peer architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@hyperswarm/rpc": "^3.3.2",
+    "b4a": "^1.6.6",
+    "hyperbee": "^2.18.2",
+    "hypercore": "^10.33.0",
+    "hyperdht": "^6.5.2"
+  },
+  "author": "Yogi Saputro",
+  "license": "ISC"
+}
